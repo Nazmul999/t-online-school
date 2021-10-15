@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+
+.button{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px 40px;
+    border-radius: 30px;
+    color:green;
+}
+.button:hover{
+    background-color: green;
+    color:white;
+}
+h1{
+    font-weight:900;
+    color: green;
+    font-family: 'Oswald', sans-serif;
+}
+.social{
+    width: 100%;
+}
+.text-height{
+    font-size: 50px;
+}
